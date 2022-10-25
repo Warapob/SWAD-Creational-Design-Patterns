@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "ISBN": "9780078022159",
+      "Title": "Database System Concepts",
+      "Publisher": "McGraw Hill",
+      "Authors": [
+        "Avi Silberschatz",
+        "Henry F. Korth",
+        "S. Sudarshan"
+      ]
+    },
+    {
+      "ISBN": "9789352865123",
+      "Title": "Clean Architecture: A Craftsman\u0027s Guide to Software Structure",
+      "Publisher": "Pearson",
+      "Authors": [
+        "Robert C. Martin"
+      ]
+    }
+  ]
+}
